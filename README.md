@@ -1,4 +1,4 @@
-## Hi, I'm James So
+## Hi, I'm James So 👋
 
 I originally chose to study **Physics** in college because I loved imagining how things work. But it wasn’t until I took a *Computation for Physics* class that I realized how much more exciting it was to **build** what I could imagine. That class led me to change my major to **Computer Science**, and opened up a whole new way for me to explore and create.
 
