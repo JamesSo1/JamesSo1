@@ -4,7 +4,7 @@ I originally chose to study **Physics** in college because I loved imagining how
 
 I enjoy working with **React** and am currently looking for opportunities to grow and contribute as a frontend developer.
 
-Please feel free to explore my projects or reach out!
+Please feel free to explore my projects or reach out on LinkedIn!
 <!--
 **JamesSo1/JamesSo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
