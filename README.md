@@ -2,8 +2,6 @@
 
 I originally chose to study **Physics** in college because I loved imagining how things work. But it wasn’t until I took a *Computation for Physics* class that I realized how much more exciting it was to **build** what I could imagine. That class led me to change my major to **Computer Science**, and opened up a whole new way for me to explore and create.
 
-I enjoy working with **React** and am currently looking for opportunities to grow and contribute as a frontend developer.
-
 Please feel free to explore my projects or reach out on [LinkedIn](https://www.linkedin.com/in/james-so1/)!
 <!--
 **JamesSo1/JamesSo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
